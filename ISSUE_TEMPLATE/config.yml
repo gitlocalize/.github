@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a Question
+    url: https://discord.gg/mGwnH4udfv
+    about: Please ask questions on our Discord server before opening an issue.
+  - name: Security Vulnerabilities
+    url: mailto:contact@gitlocalize.com
+    about: Please report security vulnerabilities privately via email.
