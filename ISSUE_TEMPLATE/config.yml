@@ -4,5 +4,5 @@ contact_links:
     url: https://discord.gg/mGwnH4udfv
     about: Please ask questions on our Discord server before opening an issue.
   - name: Security Vulnerabilities
-    url: mailto:contact@gitlocalize.com
+    url: https://github.com/gitlocalize/.github/blob/main/SECURITY.md
     about: Please report security vulnerabilities privately via email.
