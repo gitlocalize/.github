@@ -8,9 +8,10 @@ The best way to find an answer is to check our documentation. It covers setup, c
 
 ## 💬 Community Support
 
-Have a quick question? Want to discuss a feature? The fastest way to get help is to join our Discord community.
+Have a quick question? Want to discuss a feature?
 
-[**Join GitLocalize on Discord**](https://discord.gg/mGwnH4udfv)
+*   [**Discord**](https://discord.gg/mGwnH4udfv): Best for quick questions and chatting with the community.
+*   [**Discussions**](https://github.com/orgs/gitlocalize/discussions): Best for Q&A, ideas, and longer conversations.
 
 ## ✉️ Contact
 
