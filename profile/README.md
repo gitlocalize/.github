@@ -25,4 +25,4 @@ We are committed to fostering an open and welcoming environment.
 Please review our [**Code of Conduct**](../CODE_OF_CONDUCT.md) and [**Contributing Guidelines**](../CONTRIBUTING.md) before contributing.
 
 ---
-*Maintained by the GitLocalize Team*
+GitLocalize is a trademark of [Alconost Inc.](https://alconost.com), maintained by [Decenterlab](https://decenterlab.com).
