@@ -1,0 +1,50 @@
+labels:
+  - name: breaking
+    color: B60205
+    description: Breaking change (major version)
+
+  - name: feature
+    color: 0E8A16
+    description: New feature or significant functionality
+
+  - name: fix
+    color: D73A4A
+    description: Bug fix or corrective change
+
+  - name: refactor
+    color: 5319E7
+    description: Code refactoring without behavior change
+
+  - name: docs
+    color: 0075CA
+    description: Documentation only changes
+
+  - name: test
+    color: C2E0C6
+    description: Tests and test infrastructure
+
+  - name: chore
+    color: A2A2A2
+    description: Maintenance, tooling, CI, build tasks
+
+  - name: security
+    color: B60205
+    description: Security-related change or vulnerability fix
+
+  - name: dependencies
+    color: FBCA04
+    description: Dependency updates
+
+  - name: skip-changelog
+    color: FFFFFF
+    description: Exclude from release notes
+
+  # --- OSS / Community hygiene ---
+  - name: good first issue
+    color: 7057FF
+    description: Good first issue for new contributors
+
+  - name: help wanted
+    color: 008672
+    description: Extra attention or external help is needed
+
