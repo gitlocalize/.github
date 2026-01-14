@@ -18,7 +18,7 @@ categories:
   - title: "✨ Features"
     labels: ["feature"]
 
-  - title: "🐛 Bug Fixes"
+  - title: "🔧 Fixes"
     labels: ["fix"]
 
   - title: "🧹 Refactoring"
@@ -30,7 +30,7 @@ categories:
   - title: "🧪 Tests"
     labels: ["test"]
 
-  - title: "🛠️ Maintenance"
+  - title: "⚙️ Maintenance"
     labels: ["chore"]
 
   - title: "⬆️ Dependency Updates"
@@ -126,4 +126,3 @@ autolabeler:
       - "/\\bsecurity\\b/i"
       - "/\\bcve-\\d{4}-\\d+\\b/i"
       - "/\\bvulnerability\\b/i"
-
