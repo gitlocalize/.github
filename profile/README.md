@@ -10,7 +10,7 @@ GitLocalize is a continuous localization tool that naturally integrates into you
 
 *   **🌐 Website**: [gitlocalize.com](https://gitlocalize.com)
 *   **📖 Documentation**: [docs.gitlocalize.com](https://docs.gitlocalize.com)
-*   **💬 Community chat**: [Join us](https://app.gitter.im/#/room/#gitlocalize:gitter.im)
+*   **💬 Community chat**: [#gitlocalize:gitter.im](https://app.gitter.im/#/room/#gitlocalize:gitter.im)
 *   **📧 Email**: [contact@gitlocalize.com](mailto:contact@gitlocalize.com)
 
 ### 🛟 Getting Help
